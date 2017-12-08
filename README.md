@@ -1,4 +1,8 @@
 # antenna
 High-gain DYI antenna for 2.5GHz WiFi.
 
-Paper with background info, construction details, measurement, evaluation and references available at https://docs.google.com/document/d/1wpwWmH1gGnvYwxjPMEarJ4FwExbmHI5j8dZEcY2wtfY/edit?usp=sharing . 
+![project status: finished](https://img.shields.io/badge/project%20status-finished-blue.svg)
+
+This repo contains the CAD files I made for a high-gain 2.5GHz antenna I built for a school project.
+
+Paper with background info, construction details, measurement, evaluation, and references available at https://goo.gl/aw7hZV. 
